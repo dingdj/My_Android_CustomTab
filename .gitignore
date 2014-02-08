@@ -1,0 +1,11 @@
+*.class
+.classpath
+
+# Package Files #
+*.war
+*.ear
+/lint.xml
+/bin
+/gen
+.settings
+.project
